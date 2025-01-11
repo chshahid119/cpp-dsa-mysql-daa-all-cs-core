@@ -1,17 +1,20 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <CodeLite_Workspace Name="Section4" Database="" Version="10000">
   <Project Name="CompilerErrors" Path="CompilerErrors/CompilerErrors.project" Active="No"/>
-  <Project Name="CompilerWarnnings" Path="CompilerWarnnings/CompilerWarnnings.project" Active="Yes"/>
+  <Project Name="CompilerWarnnings" Path="CompilerWarnnings/CompilerWarnnings.project" Active="No"/>
+  <Project Name="LinkerError" Path="LinkerError/LinkerError.project" Active="Yes"/>
   <BuildMatrix>
     <WorkspaceConfiguration Name="Debug">
       <Environment/>
       <Project Name="CompilerErrors" ConfigName="Debug"/>
       <Project Name="CompilerWarnnings" ConfigName="Debug"/>
+      <Project Name="LinkerError" ConfigName="Debug"/>
     </WorkspaceConfiguration>
     <WorkspaceConfiguration Name="Release">
       <Environment/>
       <Project Name="CompilerErrors" ConfigName="Release"/>
       <Project Name="CompilerWarnnings" ConfigName="Release"/>
+      <Project Name="LinkerError" ConfigName="Release"/>
     </WorkspaceConfiguration>
   </BuildMatrix>
 </CodeLite_Workspace>
