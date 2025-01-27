@@ -2,19 +2,22 @@
 <CodeLite_Workspace Name="Section5" Database="" Version="10000">
   <Project Name="PreprocessorDirectives" Path="PreprocessorDirectives/PreprocessorDirectives.project" Active="No"/>
   <Project Name="StructureOfProgram" Path="StructureOfProgram/StructureOfProgram.project" Active="No"/>
-  <Project Name="Comments" Path="Comments/Comments.project" Active="Yes"/>
+  <Project Name="Comments" Path="Comments/Comments.project" Active="No"/>
+  <Project Name="BasicIO" Path="BasicIO/BasicIO.project" Active="Yes"/>
   <BuildMatrix>
     <WorkspaceConfiguration Name="Debug">
       <Environment/>
       <Project Name="PreprocessorDirectives" ConfigName="Debug"/>
       <Project Name="StructureOfProgram" ConfigName="Debug"/>
       <Project Name="Comments" ConfigName="Debug"/>
+      <Project Name="BasicIO" ConfigName="Debug"/>
     </WorkspaceConfiguration>
     <WorkspaceConfiguration Name="Release">
       <Environment/>
       <Project Name="PreprocessorDirectives" ConfigName="Release"/>
       <Project Name="StructureOfProgram" ConfigName="Release"/>
       <Project Name="Comments" ConfigName="Release"/>
+      <Project Name="BasicIO" ConfigName="Release"/>
     </WorkspaceConfiguration>
   </BuildMatrix>
 </CodeLite_Workspace>
