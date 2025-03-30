@@ -12,7 +12,7 @@ int main(){
     cin >> room_width;
     
     int room_length {0};
-    cout << "Enter the Length of the room: ";
+w    cout << "Enter the Length of the room: ";
     cin >> room_length;
     
     cout << "The length & width of room is (L-W): (" << room_length << "-" << room_width << ")" << endl;
