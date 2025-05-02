@@ -3,12 +3,12 @@
 ## any manual changes will be erased      
 ##
 ## Debug
-ProjectName            :=Arrays
+ProjectName            :=Vectors
 ConfigurationName      :=Debug
 WorkspaceConfiguration :=Debug
 WorkspacePath          :="E:/C++ Notes/cpp-dsa-mysql-daa-all-cs-core/C++ NOTES/DR FRANK MITROPOLOUS COURSE NOTES/COURSE NOTES (OWN)/Section7"
-ProjectPath            :="E:/C++ Notes/cpp-dsa-mysql-daa-all-cs-core/C++ NOTES/DR FRANK MITROPOLOUS COURSE NOTES/COURSE NOTES (OWN)/Section7/Arrays"
-IntermediateDirectory  :=../build-$(WorkspaceConfiguration)/Arrays
+ProjectPath            :="E:/C++ Notes/cpp-dsa-mysql-daa-all-cs-core/C++ NOTES/DR FRANK MITROPOLOUS COURSE NOTES/COURSE NOTES (OWN)/Section7/Vectors"
+IntermediateDirectory  :=../build-$(WorkspaceConfiguration)/Vectors
 OutDir                 :=$(IntermediateDirectory)
 CurrentFileName        :=
 CurrentFilePath        :=
@@ -96,7 +96,7 @@ PreBuild:
 ## Objects
 ##
 $(IntermediateDirectory)/main.cpp$(ObjectSuffix): main.cpp 
-	$(CXX) $(IncludePCH) $(SourceSwitch) "E:/C++ Notes/cpp-dsa-mysql-daa-all-cs-core/C++ NOTES/DR FRANK MITROPOLOUS COURSE NOTES/COURSE NOTES (OWN)/Section7/Arrays/main.cpp" $(CXXFLAGS) $(ObjectSwitch)$(IntermediateDirectory)/main.cpp$(ObjectSuffix) $(IncludePath)
+	$(CXX) $(IncludePCH) $(SourceSwitch) "E:/C++ Notes/cpp-dsa-mysql-daa-all-cs-core/C++ NOTES/DR FRANK MITROPOLOUS COURSE NOTES/COURSE NOTES (OWN)/Section7/Vectors/main.cpp" $(CXXFLAGS) $(ObjectSwitch)$(IntermediateDirectory)/main.cpp$(ObjectSuffix) $(IncludePath)
 $(IntermediateDirectory)/main.cpp$(PreprocessSuffix): main.cpp
 	$(CXX) $(CXXFLAGS) $(IncludePCH) $(IncludePath) $(PreprocessOnlySwitch) $(OutputSwitch) $(IntermediateDirectory)/main.cpp$(PreprocessSuffix) main.cpp
 
