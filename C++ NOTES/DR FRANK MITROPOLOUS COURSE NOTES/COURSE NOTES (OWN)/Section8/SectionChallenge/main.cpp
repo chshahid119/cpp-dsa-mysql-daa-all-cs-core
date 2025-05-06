@@ -38,38 +38,25 @@ int main(){
     cout << "Enter Your amount here: ";
     cin >> entered_amount;
     
-    if(entered_amount >= dollar_freq){
         remainder = entered_amount % dollar_freq;
         total_dollars = entered_amount/dollar_freq;
-//        cout << "Reminder after dollar: " << remainder << endl;
-
-    }
+        
     
-    if (total_dollars>0 && remainder > 0){
         total_quarters = remainder / quarter_freq;
-        remainder = remainder % quarter_freq;
-//        cout << "Reminder after quarter as well: " << remainder << endl;
-    }
+        remainder = remainder % quarter_freq;    
     
-    
-    if ( total_quarters > 0 && remainder > 0){
         total_dimes = remainder / dime_freq;
         remainder = remainder % dime_freq;
-//        cout << "Reminder after dimes as well: " << remainder << endl;
 
-    }
     
-    if ( total_dimes > 0 && remainder > 0){
+    
         total_nickels = remainder / nickel_freq;
         remainder = remainder % nickel_freq;
-    }
     
     
-    if (total_nickels > 0 && remainder > 0){
         total_pennies = remainder / penny_freq;
         remainder = remainder % penny_freq;
-        cout << "At the End The remainder is: " << remainder << endl;
-    }
+    
     
     
     cout << "\n" << endl;
