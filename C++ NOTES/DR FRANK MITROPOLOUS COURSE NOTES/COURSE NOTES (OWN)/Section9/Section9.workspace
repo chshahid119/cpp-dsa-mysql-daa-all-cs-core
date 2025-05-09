@@ -1,14 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <CodeLite_Workspace Name="Section9" Database="" Version="10000">
-  <Project Name="RangeBaseForLoop" Path="RangeBaseForLoop/RangeBaseForLoop.project" Active="Yes"/>
+  <Project Name="RangeBaseForLoop" Path="RangeBaseForLoop/RangeBaseForLoop.project" Active="No"/>
+  <Project Name="WhileLoop" Path="WhileLoop/WhileLoop.project" Active="Yes"/>
   <BuildMatrix>
     <WorkspaceConfiguration Name="Debug">
       <Environment/>
       <Project Name="RangeBaseForLoop" ConfigName="Debug"/>
+      <Project Name="WhileLoop" ConfigName="Debug"/>
     </WorkspaceConfiguration>
     <WorkspaceConfiguration Name="Release">
       <Environment/>
       <Project Name="RangeBaseForLoop" ConfigName="Release"/>
+      <Project Name="WhileLoop" ConfigName="Release"/>
     </WorkspaceConfiguration>
   </BuildMatrix>
 </CodeLite_Workspace>
