@@ -98,6 +98,11 @@ int main(){
                 cout << "Unable to show largest - no data in list" << endl;
             }
         }
+        
+    if(option == 'q' or option == 'Q'){
+        cout << "Good Bye!"<< endl;
+    }
+    
            
 
     if((option != 'p' && option != 'P') && (option != 'a' && option != 'A') && (option != 'm' && option != 'M')
