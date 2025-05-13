@@ -1,17 +1,20 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <CodeLite_Workspace Name="Section10" Database="" Version="10000">
   <Project Name="CStyleStrings" Path="CStyleStrings/CStyleStrings.project" Active="No"/>
-  <Project Name="CPPStrings" Path="CPPStrings/CPPStrings.project" Active="Yes"/>
+  <Project Name="CPPStrings" Path="CPPStrings/CPPStrings.project" Active="No"/>
+  <Project Name="Challenge" Path="Challenge/Challenge.project" Active="Yes"/>
   <BuildMatrix>
     <WorkspaceConfiguration Name="Debug">
       <Environment/>
       <Project Name="CStyleStrings" ConfigName="Debug"/>
       <Project Name="CPPStrings" ConfigName="Debug"/>
+      <Project Name="Challenge" ConfigName="Debug"/>
     </WorkspaceConfiguration>
     <WorkspaceConfiguration Name="Release">
       <Environment/>
       <Project Name="CStyleStrings" ConfigName="Release"/>
       <Project Name="CPPStrings" ConfigName="Release"/>
+      <Project Name="Challenge" ConfigName="Release"/>
     </WorkspaceConfiguration>
   </BuildMatrix>
 </CodeLite_Workspace>

@@ -1,8 +1,8 @@
 .PHONY: clean All
 
 All:
-	@echo "----------Building project:[ CPPStrings - Debug ]----------"
-	@cd "CPPStrings" && "$(MAKE)" -f  "CPPStrings.mk"
+	@echo "----------Building project:[ Challenge - Debug ]----------"
+	@cd "Challenge" && "$(MAKE)" -f  "Challenge.mk"
 clean:
-	@echo "----------Cleaning project:[ CPPStrings - Debug ]----------"
-	@cd "CPPStrings" && "$(MAKE)" -f  "CPPStrings.mk" clean
+	@echo "----------Cleaning project:[ Challenge - Debug ]----------"
+	@cd "Challenge" && "$(MAKE)" -f  "Challenge.mk" clean
