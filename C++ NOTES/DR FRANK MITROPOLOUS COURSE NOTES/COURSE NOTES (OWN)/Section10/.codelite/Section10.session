@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <Session Name="E:\C++ Notes\cpp-dsa-mysql-daa-all-cs-core\C++ NOTES\DR FRANK MITROPOLOUS COURSE NOTES\COURSE NOTES (OWN)\Section10\Section10.workspace">
-  <int Value="1" Name="m_selectedTab"/>
+  <int Value="2" Name="m_selectedTab"/>
   <wxString Value="E:\C++ Notes\cpp-dsa-mysql-daa-all-cs-core\C++ NOTES\DR FRANK MITROPOLOUS COURSE NOTES\COURSE NOTES (OWN)\Section10\Section10.workspace" Name="m_workspaceName"/>
   <TabInfoArray Name="TabInfoArray">
     <TabInfo>
       <wxString Value="E:\C++ Notes\cpp-dsa-mysql-daa-all-cs-core\C++ NOTES\DR FRANK MITROPOLOUS COURSE NOTES\COURSE NOTES (OWN)\Section10\CStyleStrings\main.cpp" Name="FileName"/>
       <int Value="0" Name="FirstVisibleLine"/>
-      <int Value="13" Name="CurrentLine"/>
+      <int Value="0" Name="CurrentLine"/>
       <wxArrayString Name="Bookmarks"/>
       <IntVector Name="CollapsedFolds"/>
     </TabInfo>
@@ -14,6 +14,13 @@
       <wxString Value="E:\C++ Notes\cpp-dsa-mysql-daa-all-cs-core\C++ NOTES\DR FRANK MITROPOLOUS COURSE NOTES\COURSE NOTES (OWN)\Section10\CPPStrings\main.cpp" Name="FileName"/>
       <int Value="0" Name="FirstVisibleLine"/>
       <int Value="18" Name="CurrentLine"/>
+      <wxArrayString Name="Bookmarks"/>
+      <IntVector Name="CollapsedFolds"/>
+    </TabInfo>
+    <TabInfo>
+      <wxString Value="E:\C++ Notes\cpp-dsa-mysql-daa-all-cs-core\C++ NOTES\DR FRANK MITROPOLOUS COURSE NOTES\COURSE NOTES (OWN)\Section10\Challenge\main.cpp" Name="FileName"/>
+      <int Value="6" Name="FirstVisibleLine"/>
+      <int Value="23" Name="CurrentLine"/>
       <wxArrayString Name="Bookmarks"/>
       <IntVector Name="CollapsedFolds"/>
     </TabInfo>

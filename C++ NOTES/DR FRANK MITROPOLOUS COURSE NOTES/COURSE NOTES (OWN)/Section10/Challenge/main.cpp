@@ -13,6 +13,7 @@ int main(){
     cout << "Please Enter your Message to crypt: " ;
     getline(cin, message);
     
+//    First Method 
     for(size_t i=0; i < message.length(); ++i) // for message itself
     {
         for(size_t j=0; j< alphabet.length(); ++j) // for all alphabets
@@ -21,6 +22,7 @@ int main(){
             {
                 encrypted_message += key.at(j);
             }
+
             
         }
     }
