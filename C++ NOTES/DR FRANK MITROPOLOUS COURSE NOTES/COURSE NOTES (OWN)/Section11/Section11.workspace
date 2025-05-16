@@ -2,19 +2,22 @@
 <CodeLite_Workspace Name="Section11" Database="" Version="10000">
   <Project Name="Math" Path="Math/Math.project" Active="No"/>
   <Project Name="Random" Path="Random/Random.project" Active="No"/>
-  <Project Name="FunctionPrototypes" Path="FunctionPrototypes/FunctionPrototypes.project" Active="Yes"/>
+  <Project Name="FunctionPrototypes" Path="FunctionPrototypes/FunctionPrototypes.project" Active="No"/>
+  <Project Name="DefaultArguments" Path="DefaultArguments/DefaultArguments.project" Active="Yes"/>
   <BuildMatrix>
     <WorkspaceConfiguration Name="Debug">
       <Environment/>
       <Project Name="Math" ConfigName="Debug"/>
       <Project Name="Random" ConfigName="Debug"/>
       <Project Name="FunctionPrototypes" ConfigName="Debug"/>
+      <Project Name="DefaultArguments" ConfigName="Debug"/>
     </WorkspaceConfiguration>
     <WorkspaceConfiguration Name="Release">
       <Environment/>
       <Project Name="Math" ConfigName="Release"/>
       <Project Name="Random" ConfigName="Release"/>
       <Project Name="FunctionPrototypes" ConfigName="Release"/>
+      <Project Name="DefaultArguments" ConfigName="Release"/>
     </WorkspaceConfiguration>
   </BuildMatrix>
 </CodeLite_Workspace>
