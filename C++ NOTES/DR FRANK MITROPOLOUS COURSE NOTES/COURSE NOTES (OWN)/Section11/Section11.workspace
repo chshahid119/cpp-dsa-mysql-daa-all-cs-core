@@ -6,7 +6,8 @@
   <Project Name="DefaultArguments" Path="DefaultArguments/DefaultArguments.project" Active="No"/>
   <Project Name="ArraysAndFunctions" Path="ArraysAndFunctions/ArraysAndFunctions.project" Active="No"/>
   <Project Name="PassByReference" Path="PassByReference/PassByReference.project" Active="No"/>
-  <Project Name="ScopeExamples" Path="ScopeExamples/ScopeExamples.project" Active="Yes"/>
+  <Project Name="ScopeExamples" Path="ScopeExamples/ScopeExamples.project" Active="No"/>
+  <Project Name="HowFunctionCallWorks" Path="HowFunctionCallWorks/HowFunctionCallWorks.project" Active="Yes"/>
   <BuildMatrix>
     <WorkspaceConfiguration Name="Debug">
       <Environment/>
@@ -17,6 +18,7 @@
       <Project Name="ArraysAndFunctions" ConfigName="Debug"/>
       <Project Name="PassByReference" ConfigName="Debug"/>
       <Project Name="ScopeExamples" ConfigName="Debug"/>
+      <Project Name="HowFunctionCallWorks" ConfigName="Debug"/>
     </WorkspaceConfiguration>
     <WorkspaceConfiguration Name="Release">
       <Environment/>
@@ -27,6 +29,7 @@
       <Project Name="ArraysAndFunctions" ConfigName="Release"/>
       <Project Name="PassByReference" ConfigName="Release"/>
       <Project Name="ScopeExamples" ConfigName="Release"/>
+      <Project Name="HowFunctionCallWorks" ConfigName="Release"/>
     </WorkspaceConfiguration>
   </BuildMatrix>
 </CodeLite_Workspace>
