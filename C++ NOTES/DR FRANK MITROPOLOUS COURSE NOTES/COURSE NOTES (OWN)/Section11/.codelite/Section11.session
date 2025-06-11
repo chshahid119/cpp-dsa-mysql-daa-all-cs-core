@@ -1,76 +1,18 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <Session Name="E:\C++ Notes\cpp-dsa-mysql-daa-all-cs-core\C++ NOTES\DR FRANK MITROPOLOUS COURSE NOTES\COURSE NOTES (OWN)\Section11\Section11.workspace">
-  <int Value="6" Name="m_selectedTab"/>
+  <int Value="0" Name="m_selectedTab"/>
   <wxString Value="E:\C++ Notes\cpp-dsa-mysql-daa-all-cs-core\C++ NOTES\DR FRANK MITROPOLOUS COURSE NOTES\COURSE NOTES (OWN)\Section11\Section11.workspace" Name="m_workspaceName"/>
   <TabInfoArray Name="TabInfoArray">
     <TabInfo>
-      <wxString Value="E:\C++ Notes\cpp-dsa-mysql-daa-all-cs-core\C++ NOTES\DR FRANK MITROPOLOUS COURSE NOTES\COURSE NOTES (OWN)\Section11\Math\main.cpp" Name="FileName"/>
-      <int Value="0" Name="FirstVisibleLine"/>
-      <int Value="4" Name="CurrentLine"/>
-      <wxArrayString Name="Bookmarks"/>
-      <IntVector Name="CollapsedFolds"/>
-    </TabInfo>
-    <TabInfo>
-      <wxString Value="E:\C++ Notes\cpp-dsa-mysql-daa-all-cs-core\C++ NOTES\DR FRANK MITROPOLOUS COURSE NOTES\COURSE NOTES (OWN)\Section11\Random\main.cpp" Name="FileName"/>
-      <int Value="3" Name="FirstVisibleLine"/>
-      <int Value="4" Name="CurrentLine"/>
-      <wxArrayString Name="Bookmarks"/>
-      <IntVector Name="CollapsedFolds"/>
-    </TabInfo>
-    <TabInfo>
-      <wxString Value="E:\C++ Notes\cpp-dsa-mysql-daa-all-cs-core\C++ NOTES\DR FRANK MITROPOLOUS COURSE NOTES\COURSE NOTES (OWN)\Section11\FunctionPrototypes\main.cpp" Name="FileName"/>
-      <int Value="3" Name="FirstVisibleLine"/>
-      <int Value="4" Name="CurrentLine"/>
-      <wxArrayString Name="Bookmarks"/>
-      <IntVector Name="CollapsedFolds"/>
-    </TabInfo>
-    <TabInfo>
-      <wxString Value="E:\C++ Notes\cpp-dsa-mysql-daa-all-cs-core\C++ NOTES\DR FRANK MITROPOLOUS COURSE NOTES\COURSE NOTES (OWN)\Section11\DefaultArguments\main.cpp" Name="FileName"/>
-      <int Value="2" Name="FirstVisibleLine"/>
-      <int Value="3" Name="CurrentLine"/>
-      <wxArrayString Name="Bookmarks"/>
-      <IntVector Name="CollapsedFolds"/>
-    </TabInfo>
-    <TabInfo>
-      <wxString Value="E:\C++ Notes\cpp-dsa-mysql-daa-all-cs-core\C++ NOTES\DR FRANK MITROPOLOUS COURSE NOTES\COURSE NOTES (OWN)\Section11\ArraysAndFunctions\main.cpp" Name="FileName"/>
-      <int Value="0" Name="FirstVisibleLine"/>
+      <wxString Value="E:\C++ Notes\cpp-dsa-mysql-daa-all-cs-core\C++ NOTES\DR FRANK MITROPOLOUS COURSE NOTES\COURSE NOTES (OWN)\Section11\SimplePointers\main.cpp" Name="FileName"/>
+      <int Value="19" Name="FirstVisibleLine"/>
       <int Value="0" Name="CurrentLine"/>
-      <wxArrayString Name="Bookmarks"/>
-      <IntVector Name="CollapsedFolds"/>
-    </TabInfo>
-    <TabInfo>
-      <wxString Value="E:\C++ Notes\cpp-dsa-mysql-daa-all-cs-core\C++ NOTES\DR FRANK MITROPOLOUS COURSE NOTES\COURSE NOTES (OWN)\Section11\PassByReference\main.cpp" Name="FileName"/>
-      <int Value="40" Name="FirstVisibleLine"/>
-      <int Value="60" Name="CurrentLine"/>
-      <wxArrayString Name="Bookmarks"/>
-      <IntVector Name="CollapsedFolds"/>
-    </TabInfo>
-    <TabInfo>
-      <wxString Value="E:\C++ Notes\cpp-dsa-mysql-daa-all-cs-core\C++ NOTES\DR FRANK MITROPOLOUS COURSE NOTES\COURSE NOTES (OWN)\Section11\ScopeExamples\main.cpp" Name="FileName"/>
-      <int Value="30" Name="FirstVisibleLine"/>
-      <int Value="28" Name="CurrentLine"/>
       <wxArrayString Name="Bookmarks"/>
       <IntVector Name="CollapsedFolds"/>
     </TabInfo>
   </TabInfoArray>
   <SerializedObject Name="m_breakpoints">
-    <long Value="1" Name="Count"/>
-    <SerializedObject Name="Breakpoint0">
-      <wxString Value="E:\C++ Notes\cpp-dsa-mysql-daa-all-cs-core\C++ NOTES\DR FRANK MITROPOLOUS COURSE NOTES\COURSE NOTES (OWN)\Section11\ArraysAndFunctions\main.cpp" Name="file"/>
-      <int Value="26" Name="lineno"/>
-      <wxString Value="" Name="function_name"/>
-      <wxString Value="" Name="memory_address"/>
-      <int Value="1" Name="bp_type"/>
-      <int Value="0" Name="watchpoint_type"/>
-      <wxString Value="" Name="watchpt_data"/>
-      <CData Name="commandlist"/>
-      <bool Value="0" Name="regex"/>
-      <bool Value="0" Name="is_temp"/>
-      <bool Value="1" Name="is_enabled"/>
-      <long Value="0" Name="ignore_number"/>
-      <wxString Value="" Name="conditions"/>
-      <int Value="0" Name="origin"/>
-    </SerializedObject>
+    <long Value="0" Name="Count"/>
   </SerializedObject>
   <wxString Value="*.c;*.cpp;*.cxx;*.cc;*.h;*.hpp;*.inc;*.mm;*.m;*.xrc;*.plist;*.txt" Name="m_findInFilesMask"/>
 </Session>
