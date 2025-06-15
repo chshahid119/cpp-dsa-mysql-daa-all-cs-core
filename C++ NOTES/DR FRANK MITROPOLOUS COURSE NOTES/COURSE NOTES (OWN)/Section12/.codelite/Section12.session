@@ -1,8 +1,23 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <Session Name="E:\C++ Notes\cpp-dsa-mysql-daa-all-cs-core\C++ NOTES\DR FRANK MITROPOLOUS COURSE NOTES\COURSE NOTES (OWN)\Section12\Section12.workspace">
-  <int Value="0" Name="m_selectedTab"/>
+  <int Value="1" Name="m_selectedTab"/>
   <wxString Value="E:\C++ Notes\cpp-dsa-mysql-daa-all-cs-core\C++ NOTES\DR FRANK MITROPOLOUS COURSE NOTES\COURSE NOTES (OWN)\Section12\Section12.workspace" Name="m_workspaceName"/>
-  <TabInfoArray Name="TabInfoArray"/>
+  <TabInfoArray Name="TabInfoArray">
+    <TabInfo>
+      <wxString Value="E:\C++ Notes\cpp-dsa-mysql-daa-all-cs-core\C++ NOTES\DR FRANK MITROPOLOUS COURSE NOTES\COURSE NOTES (OWN)\Section12\SimplePointers\main.cpp" Name="FileName"/>
+      <int Value="19" Name="FirstVisibleLine"/>
+      <int Value="37" Name="CurrentLine"/>
+      <wxArrayString Name="Bookmarks"/>
+      <IntVector Name="CollapsedFolds"/>
+    </TabInfo>
+    <TabInfo>
+      <wxString Value="E:\C++ Notes\cpp-dsa-mysql-daa-all-cs-core\C++ NOTES\DR FRANK MITROPOLOUS COURSE NOTES\COURSE NOTES (OWN)\Section12\DynamicMemory\main.cpp" Name="FileName"/>
+      <int Value="3" Name="FirstVisibleLine"/>
+      <int Value="23" Name="CurrentLine"/>
+      <wxArrayString Name="Bookmarks"/>
+      <IntVector Name="CollapsedFolds"/>
+    </TabInfo>
+  </TabInfoArray>
   <SerializedObject Name="m_breakpoints">
     <long Value="0" Name="Count"/>
   </SerializedObject>
