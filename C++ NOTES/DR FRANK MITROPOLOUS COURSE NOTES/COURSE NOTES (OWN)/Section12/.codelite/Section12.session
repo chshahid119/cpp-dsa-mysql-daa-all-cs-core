@@ -5,8 +5,8 @@
   <TabInfoArray Name="TabInfoArray">
     <TabInfo>
       <wxString Value="E:\C++ Notes\cpp-dsa-mysql-daa-all-cs-core\C++ NOTES\DR FRANK MITROPOLOUS COURSE NOTES\COURSE NOTES (OWN)\Section12\SimplePointers\main.cpp" Name="FileName"/>
-      <int Value="19" Name="FirstVisibleLine"/>
-      <int Value="37" Name="CurrentLine"/>
+      <int Value="0" Name="FirstVisibleLine"/>
+      <int Value="0" Name="CurrentLine"/>
       <wxArrayString Name="Bookmarks"/>
       <IntVector Name="CollapsedFolds"/>
     </TabInfo>
@@ -14,6 +14,13 @@
       <wxString Value="E:\C++ Notes\cpp-dsa-mysql-daa-all-cs-core\C++ NOTES\DR FRANK MITROPOLOUS COURSE NOTES\COURSE NOTES (OWN)\Section12\DynamicMemory\main.cpp" Name="FileName"/>
       <int Value="3" Name="FirstVisibleLine"/>
       <int Value="23" Name="CurrentLine"/>
+      <wxArrayString Name="Bookmarks"/>
+      <IntVector Name="CollapsedFolds"/>
+    </TabInfo>
+    <TabInfo>
+      <wxString Value="E:\C++ Notes\cpp-dsa-mysql-daa-all-cs-core\C++ NOTES\DR FRANK MITROPOLOUS COURSE NOTES\COURSE NOTES (OWN)\Section12\ArrayVsPointersRelationship\main.cpp" Name="FileName"/>
+      <int Value="24" Name="FirstVisibleLine"/>
+      <int Value="32" Name="CurrentLine"/>
       <wxArrayString Name="Bookmarks"/>
       <IntVector Name="CollapsedFolds"/>
     </TabInfo>
