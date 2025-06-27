@@ -15,9 +15,9 @@ int main(){
 //    cout << valptr << endl;
     
     
-    cout << vals << endl;
-    cout << &vals << endl;
-    cout << *(&vals) << endl;
+    cout << vals << endl; //0xhjdsakfh
+    cout << &vals << endl; //0xhjdsakfh
+    cout << *(&vals) << endl; //
     cout << *(*(&vals)) << endl; // Now it derefence to that address to give value
     cout<<valptr<<endl;
 

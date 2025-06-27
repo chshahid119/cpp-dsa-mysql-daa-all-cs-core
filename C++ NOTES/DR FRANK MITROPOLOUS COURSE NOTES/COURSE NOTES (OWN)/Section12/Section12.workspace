@@ -2,19 +2,22 @@
 <CodeLite_Workspace Name="Section12" Database="" Version="10000">
   <Project Name="SimplePointers" Path="SimplePointers/SimplePointers.project" Active="No"/>
   <Project Name="DynamicMemory" Path="DynamicMemory/DynamicMemory.project" Active="No"/>
-  <Project Name="ArrVsPointersStackOverflowExample" Path="ArrayVsPointersRelationship/ArrayVsPointersRelationship.project" Active="Yes"/>
+  <Project Name="ArrVsPointersStackOverflowExample" Path="ArrayVsPointersRelationship/ArrayVsPointersRelationship.project" Active="No"/>
+  <Project Name="PassingPointers1" Path="PassingPointers1/PassingPointers1.project" Active="Yes"/>
   <BuildMatrix>
     <WorkspaceConfiguration Name="Debug">
       <Environment/>
       <Project Name="SimplePointers" ConfigName="Debug"/>
       <Project Name="DynamicMemory" ConfigName="Debug"/>
       <Project Name="ArrVsPointersStackOverflowExample" ConfigName="Debug"/>
+      <Project Name="PassingPointers1" ConfigName="Debug"/>
     </WorkspaceConfiguration>
     <WorkspaceConfiguration Name="Release">
       <Environment/>
       <Project Name="SimplePointers" ConfigName="Release"/>
       <Project Name="DynamicMemory" ConfigName="Release"/>
       <Project Name="ArrVsPointersStackOverflowExample" ConfigName="Release"/>
+      <Project Name="PassingPointers1" ConfigName="Release"/>
     </WorkspaceConfiguration>
   </BuildMatrix>
 </CodeLite_Workspace>
