@@ -4,7 +4,8 @@
   <Project Name="DynamicMemory" Path="DynamicMemory/DynamicMemory.project" Active="No"/>
   <Project Name="ArrVsPointersStackOverflowExample" Path="ArrayVsPointersRelationship/ArrayVsPointersRelationship.project" Active="No"/>
   <Project Name="PassingPointers1" Path="PassingPointers1/PassingPointers1.project" Active="No"/>
-  <Project Name="ReturnPointers" Path="ReturnPointers/ReturnPointers.project" Active="Yes"/>
+  <Project Name="ReturnPointers" Path="ReturnPointers/ReturnPointers.project" Active="No"/>
+  <Project Name="References" Path="References/References.project" Active="Yes"/>
   <BuildMatrix>
     <WorkspaceConfiguration Name="Debug">
       <Environment/>
@@ -13,6 +14,7 @@
       <Project Name="ArrVsPointersStackOverflowExample" ConfigName="Debug"/>
       <Project Name="PassingPointers1" ConfigName="Debug"/>
       <Project Name="ReturnPointers" ConfigName="Debug"/>
+      <Project Name="References" ConfigName="Debug"/>
     </WorkspaceConfiguration>
     <WorkspaceConfiguration Name="Release">
       <Environment/>
@@ -21,6 +23,7 @@
       <Project Name="ArrVsPointersStackOverflowExample" ConfigName="Release"/>
       <Project Name="PassingPointers1" ConfigName="Release"/>
       <Project Name="ReturnPointers" ConfigName="Release"/>
+      <Project Name="References" ConfigName="Release"/>
     </WorkspaceConfiguration>
   </BuildMatrix>
 </CodeLite_Workspace>
