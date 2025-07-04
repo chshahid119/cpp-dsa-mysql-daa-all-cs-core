@@ -25,6 +25,8 @@ int main(){
 
     size_t arr1Size = sizeof(arr1) / sizeof(arr1[0]);
     size_t arr2Size = sizeof(arr2) / sizeof(arr2[0]);
+    cout << "Size of Array 1 is: " << arr1Size << endl;
+    cout << "Size of Array 2 is: " << arr2Size << endl;
 
     int* results = apply_all(arr1, arr1Size, arr2, arr2Size);
     
