@@ -6,7 +6,8 @@
   <Project Name="PassingPointers1" Path="PassingPointers1/PassingPointers1.project" Active="No"/>
   <Project Name="ReturnPointers" Path="ReturnPointers/ReturnPointers.project" Active="No"/>
   <Project Name="References" Path="References/References.project" Active="No"/>
-  <Project Name="Debugger" Path="Debugger/Debugger.project" Active="Yes"/>
+  <Project Name="Debugger" Path="Debugger/Debugger.project" Active="No"/>
+  <Project Name="Challenge" Path="Challenge/Challenge.project" Active="Yes"/>
   <BuildMatrix>
     <WorkspaceConfiguration Name="Debug">
       <Environment/>
@@ -17,6 +18,7 @@
       <Project Name="ReturnPointers" ConfigName="Debug"/>
       <Project Name="References" ConfigName="Debug"/>
       <Project Name="Debugger" ConfigName="Debug"/>
+      <Project Name="Challenge" ConfigName="Debug"/>
     </WorkspaceConfiguration>
     <WorkspaceConfiguration Name="Release">
       <Environment/>
@@ -27,6 +29,7 @@
       <Project Name="ReturnPointers" ConfigName="Release"/>
       <Project Name="References" ConfigName="Release"/>
       <Project Name="Debugger" ConfigName="Release"/>
+      <Project Name="Challenge" ConfigName="Release"/>
     </WorkspaceConfiguration>
   </BuildMatrix>
 </CodeLite_Workspace>

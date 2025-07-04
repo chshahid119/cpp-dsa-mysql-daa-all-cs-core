@@ -30,7 +30,7 @@ int main(){
     swap(&x, &y);
     
     
-    cout << "\n x: " << x << endl;
+    scout << "\n x: " << x << endl;
     cout << "\n y: " << y <<  endl;
     cout << endl;
     return 0;
