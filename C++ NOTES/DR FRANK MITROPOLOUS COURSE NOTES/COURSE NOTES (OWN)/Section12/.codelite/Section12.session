@@ -1,26 +1,26 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <Session Name="E:\C++ Notes\cpp-dsa-mysql-daa-all-cs-core\C++ NOTES\DR FRANK MITROPOLOUS COURSE NOTES\COURSE NOTES (OWN)\Section12\Section12.workspace">
-  <int Value="3" Name="m_selectedTab"/>
+  <int Value="4" Name="m_selectedTab"/>
   <wxString Value="E:\C++ Notes\cpp-dsa-mysql-daa-all-cs-core\C++ NOTES\DR FRANK MITROPOLOUS COURSE NOTES\COURSE NOTES (OWN)\Section12\Section12.workspace" Name="m_workspaceName"/>
   <TabInfoArray Name="TabInfoArray">
     <TabInfo>
       <wxString Value="E:\C++ Notes\cpp-dsa-mysql-daa-all-cs-core\C++ NOTES\DR FRANK MITROPOLOUS COURSE NOTES\COURSE NOTES (OWN)\Section12\PassingPointers1\main.cpp" Name="FileName"/>
       <int Value="0" Name="FirstVisibleLine"/>
-      <int Value="9" Name="CurrentLine"/>
+      <int Value="0" Name="CurrentLine"/>
       <wxArrayString Name="Bookmarks"/>
       <IntVector Name="CollapsedFolds"/>
     </TabInfo>
     <TabInfo>
       <wxString Value="E:\C++ Notes\cpp-dsa-mysql-daa-all-cs-core\C++ NOTES\DR FRANK MITROPOLOUS COURSE NOTES\COURSE NOTES (OWN)\Section12\ReturnPointers\main.cpp" Name="FileName"/>
       <int Value="0" Name="FirstVisibleLine"/>
-      <int Value="10" Name="CurrentLine"/>
+      <int Value="0" Name="CurrentLine"/>
       <wxArrayString Name="Bookmarks"/>
       <IntVector Name="CollapsedFolds"/>
     </TabInfo>
     <TabInfo>
       <wxString Value="E:\C++ Notes\cpp-dsa-mysql-daa-all-cs-core\C++ NOTES\DR FRANK MITROPOLOUS COURSE NOTES\COURSE NOTES (OWN)\Section12\References\main.cpp" Name="FileName"/>
-      <int Value="36" Name="FirstVisibleLine"/>
-      <int Value="48" Name="CurrentLine"/>
+      <int Value="0" Name="FirstVisibleLine"/>
+      <int Value="0" Name="CurrentLine"/>
       <wxArrayString Name="Bookmarks"/>
       <IntVector Name="CollapsedFolds"/>
     </TabInfo>
@@ -28,6 +28,13 @@
       <wxString Value="E:\C++ Notes\cpp-dsa-mysql-daa-all-cs-core\C++ NOTES\DR FRANK MITROPOLOUS COURSE NOTES\COURSE NOTES (OWN)\Section12\Debugger\main.cpp" Name="FileName"/>
       <int Value="15" Name="FirstVisibleLine"/>
       <int Value="27" Name="CurrentLine"/>
+      <wxArrayString Name="Bookmarks"/>
+      <IntVector Name="CollapsedFolds"/>
+    </TabInfo>
+    <TabInfo>
+      <wxString Value="E:\C++ Notes\cpp-dsa-mysql-daa-all-cs-core\C++ NOTES\DR FRANK MITROPOLOUS COURSE NOTES\COURSE NOTES (OWN)\Section12\Challenge\main.cpp" Name="FileName"/>
+      <int Value="11" Name="FirstVisibleLine"/>
+      <int Value="28" Name="CurrentLine"/>
       <wxArrayString Name="Bookmarks"/>
       <IntVector Name="CollapsedFolds"/>
     </TabInfo>
