@@ -8,12 +8,17 @@ void swap(int *a, int *b);
 
 int main(){
     
+//    1. Declare a pointer to an integer and store the address of a variable.
+
     int a = 10;
     int *ptr = &a;
     
     
     cout << "The Value of a is: " << a << endl;
     cout << "The Address of a is: " << ptr << endl;
+    
+//    2. Dereference a pointer to print the value of a variable.
+
     cout << "The Value at the Address is: " << *ptr << endl; // dereferencing it here 
     
     
