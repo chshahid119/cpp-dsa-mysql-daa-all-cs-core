@@ -1,14 +1,23 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <CodeLite_Workspace Name="Section 13" Database="" Version="10000">
-  <Project Name="AccessingClassMembers" Path="AccessingClassMembers/AccessingClassMembers.project" Active="Yes"/>
+  <Project Name="AccessingClassMembers" Path="AccessingClassMembers/AccessingClassMembers.project" Active="No"/>
+  <Project Name="ImplementingThroughHeaderSeparateFiles" Path="ImplementingThroughHeaderSeparateFiles/ImplementingThroughHeaderSeparateFiles.project" Active="No"/>
+  <Project Name="ConstructorsAndDestructors" Path="ConstructorsAndDestructors/ConstructorsAndDestructors.project" Active="No"/>
+  <Project Name="ConstructorsInitilizationLists" Path="ConstructorsInitilizationLists/ConstructorsInitilizationLists.project" Active="Yes"/>
   <BuildMatrix>
     <WorkspaceConfiguration Name="Debug">
       <Environment/>
       <Project Name="AccessingClassMembers" ConfigName="Debug"/>
+      <Project Name="ImplementingThroughHeaderSeparateFiles" ConfigName="Debug"/>
+      <Project Name="ConstructorsAndDestructors" ConfigName="Debug"/>
+      <Project Name="ConstructorsInitilizationLists" ConfigName="Debug"/>
     </WorkspaceConfiguration>
     <WorkspaceConfiguration Name="Release">
       <Environment/>
       <Project Name="AccessingClassMembers" ConfigName="Release"/>
+      <Project Name="ImplementingThroughHeaderSeparateFiles" ConfigName="Release"/>
+      <Project Name="ConstructorsAndDestructors" ConfigName="Release"/>
+      <Project Name="ConstructorsInitilizationLists" ConfigName="Release"/>
     </WorkspaceConfiguration>
   </BuildMatrix>
 </CodeLite_Workspace>
