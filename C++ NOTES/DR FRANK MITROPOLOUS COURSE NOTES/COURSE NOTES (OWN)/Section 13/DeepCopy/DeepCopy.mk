@@ -3,12 +3,12 @@
 ## any manual changes will be erased      
 ##
 ## Debug
-ProjectName            :=ImplementingThroughHeaderSeparateFiles
+ProjectName            :=DeepCopy
 ConfigurationName      :=Debug
 WorkspaceConfiguration :=Debug
 WorkspacePath          :="E:/C++ Notes/cpp-dsa-mysql-daa-all-cs-core/C++ NOTES/DR FRANK MITROPOLOUS COURSE NOTES/COURSE NOTES (OWN)/Section 13"
-ProjectPath            :="E:/C++ Notes/cpp-dsa-mysql-daa-all-cs-core/C++ NOTES/DR FRANK MITROPOLOUS COURSE NOTES/COURSE NOTES (OWN)/Section 13/ImplementingThroughHeaderSeparateFiles"
-IntermediateDirectory  :=../build-$(WorkspaceConfiguration)/ImplementingThroughHeaderSeparateFiles
+ProjectPath            :="E:/C++ Notes/cpp-dsa-mysql-daa-all-cs-core/C++ NOTES/DR FRANK MITROPOLOUS COURSE NOTES/COURSE NOTES (OWN)/Section 13/DeepCopy"
+IntermediateDirectory  :=../build-$(WorkspaceConfiguration)/DeepCopy
 OutDir                 :=$(IntermediateDirectory)
 CurrentFileName        :=
 CurrentFilePath        :=
@@ -64,7 +64,7 @@ AS       := C:/mingw64/bin/as.exe
 ## User defined environment variables
 ##
 CodeLiteDir:=C:\Program Files\CodeLite
-Objects0=$(IntermediateDirectory)/main.cpp$(ObjectSuffix) $(IntermediateDirectory)/Account.cpp$(ObjectSuffix) 
+Objects0=$(IntermediateDirectory)/main.cpp$(ObjectSuffix) 
 
 
 
@@ -96,14 +96,9 @@ PreBuild:
 ## Objects
 ##
 $(IntermediateDirectory)/main.cpp$(ObjectSuffix): main.cpp 
-	$(CXX) $(IncludePCH) $(SourceSwitch) "E:/C++ Notes/cpp-dsa-mysql-daa-all-cs-core/C++ NOTES/DR FRANK MITROPOLOUS COURSE NOTES/COURSE NOTES (OWN)/Section 13/ImplementingThroughHeaderSeparateFiles/main.cpp" $(CXXFLAGS) $(ObjectSwitch)$(IntermediateDirectory)/main.cpp$(ObjectSuffix) $(IncludePath)
+	$(CXX) $(IncludePCH) $(SourceSwitch) "E:/C++ Notes/cpp-dsa-mysql-daa-all-cs-core/C++ NOTES/DR FRANK MITROPOLOUS COURSE NOTES/COURSE NOTES (OWN)/Section 13/DeepCopy/main.cpp" $(CXXFLAGS) $(ObjectSwitch)$(IntermediateDirectory)/main.cpp$(ObjectSuffix) $(IncludePath)
 $(IntermediateDirectory)/main.cpp$(PreprocessSuffix): main.cpp
 	$(CXX) $(CXXFLAGS) $(IncludePCH) $(IncludePath) $(PreprocessOnlySwitch) $(OutputSwitch) $(IntermediateDirectory)/main.cpp$(PreprocessSuffix) main.cpp
-
-$(IntermediateDirectory)/Account.cpp$(ObjectSuffix): Account.cpp 
-	$(CXX) $(IncludePCH) $(SourceSwitch) "E:/C++ Notes/cpp-dsa-mysql-daa-all-cs-core/C++ NOTES/DR FRANK MITROPOLOUS COURSE NOTES/COURSE NOTES (OWN)/Section 13/ImplementingThroughHeaderSeparateFiles/Account.cpp" $(CXXFLAGS) $(ObjectSwitch)$(IntermediateDirectory)/Account.cpp$(ObjectSuffix) $(IncludePath)
-$(IntermediateDirectory)/Account.cpp$(PreprocessSuffix): Account.cpp
-	$(CXX) $(CXXFLAGS) $(IncludePCH) $(IncludePath) $(PreprocessOnlySwitch) $(OutputSwitch) $(IntermediateDirectory)/Account.cpp$(PreprocessSuffix) Account.cpp
 
 ##
 ## Clean
