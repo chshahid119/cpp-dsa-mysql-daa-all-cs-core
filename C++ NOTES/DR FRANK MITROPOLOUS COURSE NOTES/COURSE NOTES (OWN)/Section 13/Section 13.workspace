@@ -5,7 +5,8 @@
   <Project Name="ConstructorsAndDestructors" Path="ConstructorsAndDestructors/ConstructorsAndDestructors.project" Active="No"/>
   <Project Name="ConstructorsInitilizationLists" Path="ConstructorsInitilizationLists/ConstructorsInitilizationLists.project" Active="No"/>
   <Project Name="DeepCopy" Path="DeepCopy/DeepCopy.project" Active="No"/>
-  <Project Name="MoveConstructor" Path="MoveConstructor/MoveConstructor.project" Active="Yes"/>
+  <Project Name="MoveConstructor" Path="MoveConstructor/MoveConstructor.project" Active="No"/>
+  <Project Name="StaticClassMembers" Path="StaticClassMembers/StaticClassMembers.project" Active="Yes"/>
   <BuildMatrix>
     <WorkspaceConfiguration Name="Debug">
       <Environment/>
@@ -15,6 +16,7 @@
       <Project Name="ConstructorsInitilizationLists" ConfigName="Debug"/>
       <Project Name="DeepCopy" ConfigName="Debug"/>
       <Project Name="MoveConstructor" ConfigName="Debug"/>
+      <Project Name="StaticClassMembers" ConfigName="Debug"/>
     </WorkspaceConfiguration>
     <WorkspaceConfiguration Name="Release">
       <Environment/>
@@ -24,6 +26,7 @@
       <Project Name="ConstructorsInitilizationLists" ConfigName="Release"/>
       <Project Name="DeepCopy" ConfigName="Release"/>
       <Project Name="MoveConstructor" ConfigName="Release"/>
+      <Project Name="StaticClassMembers" ConfigName="Release"/>
     </WorkspaceConfiguration>
   </BuildMatrix>
 </CodeLite_Workspace>
