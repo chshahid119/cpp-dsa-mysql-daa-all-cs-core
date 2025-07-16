@@ -17,7 +17,7 @@ class Move{
         // Copy Constructor
         Move(const Move &source);
         // Move Constructor
-//        Move(Move &&source) noexcept;
+        Move(Move &&source) noexcept;
 //        Destructor
         ~Move();
 };
@@ -37,11 +37,11 @@ Move::Move(const Move &source): Move {*source.data} {
 
 
 // Move Constructor
-//Move::Move(Move &&source) noexcept
-//:data{source.data} {
-//    source.data = nullptr;
-//    cout << "Move Constructor - moving resource: " << *data << endl;
-//}
+Move::Move(Move &&source) noexcept
+:data{source.data} {
+    source.data = nullptr;
+    cout << "Move Constructor - moving resource: " << *data << endl;
+}
 
 
 Move::~Move(){
@@ -59,12 +59,13 @@ int main(){
     vector<Move> vec;
     vec.push_back(Move{10});
     
-//    
-//    vec.push_back(Move{10});
-//    vec.push_back(Move{10});
-//    vec.push_back(Move{10});
-//    vec.push_back(Move{10});
-//    vec.push_back(Move{10});
+    vec.push_back(Move{20});
+    vec.push_back(Move{30});
+    vec.push_back(Move{40});
+    vec.push_back(Move{50});
+    vec.push_back(Move{60});
+    vec.push_back(Move{70});
+    vec.push_back(Move{80});
     
     
     
