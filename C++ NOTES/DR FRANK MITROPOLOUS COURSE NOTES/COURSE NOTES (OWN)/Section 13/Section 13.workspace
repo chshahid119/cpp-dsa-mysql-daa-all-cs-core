@@ -4,7 +4,8 @@
   <Project Name="ImplementingThroughHeaderSeparateFiles" Path="ImplementingThroughHeaderSeparateFiles/ImplementingThroughHeaderSeparateFiles.project" Active="No"/>
   <Project Name="ConstructorsAndDestructors" Path="ConstructorsAndDestructors/ConstructorsAndDestructors.project" Active="No"/>
   <Project Name="ConstructorsInitilizationLists" Path="ConstructorsInitilizationLists/ConstructorsInitilizationLists.project" Active="No"/>
-  <Project Name="DeepCopy" Path="DeepCopy/DeepCopy.project" Active="Yes"/>
+  <Project Name="DeepCopy" Path="DeepCopy/DeepCopy.project" Active="No"/>
+  <Project Name="MoveConstructor" Path="MoveConstructor/MoveConstructor.project" Active="Yes"/>
   <BuildMatrix>
     <WorkspaceConfiguration Name="Debug">
       <Environment/>
@@ -13,6 +14,7 @@
       <Project Name="ConstructorsAndDestructors" ConfigName="Debug"/>
       <Project Name="ConstructorsInitilizationLists" ConfigName="Debug"/>
       <Project Name="DeepCopy" ConfigName="Debug"/>
+      <Project Name="MoveConstructor" ConfigName="Debug"/>
     </WorkspaceConfiguration>
     <WorkspaceConfiguration Name="Release">
       <Environment/>
@@ -21,6 +23,7 @@
       <Project Name="ConstructorsAndDestructors" ConfigName="Release"/>
       <Project Name="ConstructorsInitilizationLists" ConfigName="Release"/>
       <Project Name="DeepCopy" ConfigName="Release"/>
+      <Project Name="MoveConstructor" ConfigName="Release"/>
     </WorkspaceConfiguration>
   </BuildMatrix>
 </CodeLite_Workspace>
