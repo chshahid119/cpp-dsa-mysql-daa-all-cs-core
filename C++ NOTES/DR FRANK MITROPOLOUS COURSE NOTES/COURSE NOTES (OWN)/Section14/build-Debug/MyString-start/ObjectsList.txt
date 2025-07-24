@@ -1,0 +1,1 @@
+../build-Debug/MyString-start/Mystring.cpp.o ../build-Debug/MyString-start/main.cpp.o   
